@@ -2,7 +2,7 @@
 layout: post
 title:  "libmypaint is ready for translation"
 date:   2015-07-02 00:00:00
-categories: news i18n
+categories: blog
 ---
 
 MyPaint is well on its way to feature and string freeze,

@@ -2,7 +2,7 @@
 layout: post
 title:  "MyPaint wiki to close down in approx. 2 weeks"
 date:   2015-03-06 00:00:00
-categories: news sites
+categories: blog
 ---
 
 The [MyPaint wiki](http://wiki.mypaint.info/) will be closed down

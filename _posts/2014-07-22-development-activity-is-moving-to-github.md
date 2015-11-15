@@ -2,7 +2,7 @@
 layout: post
 title:  "Development activity is moving to Github"
 date:   2014-07-22 00:00:00
-categories: news git
+categories: blog
 ---
 
 In just under a week’s time, on Sunday 27th July 2014, I’ll be moving

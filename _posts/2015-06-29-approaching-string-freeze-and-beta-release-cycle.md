@@ -2,7 +2,7 @@
 layout: post
 title:  "Approaching string freeze and beta release cycle"
 date:   2015-06-29 00:00:00
-categories: news i18n
+categories: blog
 ---
 
 It’s time to start putting the next release together, folks!

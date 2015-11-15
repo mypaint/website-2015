@@ -2,7 +2,7 @@
 layout: post
 title:  "MyPaint website temporarily offline"
 date:   2015-11-15 00:59:00
-categories: news
+categories: blog
 ---
 
 <p style="text-align: center">

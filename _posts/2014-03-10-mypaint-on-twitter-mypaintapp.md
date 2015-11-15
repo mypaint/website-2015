@@ -2,7 +2,7 @@
 layout: post
 title:  "MyPaint on Twitter: @MyPaintApp"
 date:   2014-03-10 00:00:00
-categories: news sites
+categories: blog
 ---
 
 MyPaint now has a Twitter account, for announcements, Q&A, feature

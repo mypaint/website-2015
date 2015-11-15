@@ -2,7 +2,7 @@
 layout: post
 title:  "Translations needed for 1.2.0"
 date:   2015-07-13 00:00:10
-categories: news i18n
+categories: blog
 ---
 
 MyPaint badly needs *your* language skills to make the 1.2.0 release a

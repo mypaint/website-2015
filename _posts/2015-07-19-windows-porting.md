@@ -2,7 +2,7 @@
 layout: post
 title:  "Windows Porting"
 date:   2015-07-19 00:00:00
-categories: news windows
+categories: blog
 ---
 
 I’m hoping that MyPaint will be able to support Windows fully starting
