@@ -36,7 +36,7 @@ not mentioned on this page.
   using the same key as the PPA.
 
 * **Windows**: long-time MyPaint porter TumaGonx has an
-  [experimental MyPaint build for Windows available from their blog](tuma-rels).
+  [experimental MyPaint build for Windows available from their blog][tuma-rels].
   This may be more thoroughly tested than our newer releases,
   and you are welcome to try both and compare the results!
 
