@@ -8,7 +8,12 @@ categories: blog
 MyPaint is well on its way to feature and string freeze,
 but its brush library is stable enough to be translated now.
 
-* (image: Example status page from WebLate)
+<img src="/assets/posts/2015-07-02-weblate-example-status-page.png"
+alt="Example status page from WebLate"
+style="float: right"
+width="222"
+height="300"
+/>
 
 You can help!
 The developers of [WebLate](https://weblate.org/),
