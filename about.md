@@ -4,36 +4,58 @@ title: About
 permalink: /about/
 ---
 
-MyPaint started back in 2004 when Martin Renold bought himself a Wacom 
-tablet for the purpose to test it on [GIMP](http://gimp.org). He notice 
-that GIMP would sometimes drop a stroke when scribbling too fast. Plus 
-he thought he could paint more freely if the brush could react in a 
-different ways to pressure and velocity.
+MyPaint began in 2004
+when Martin Renold bought himself a Wacom graphics tablet.
+He noticed that the [program][gimp] he was using
+would sometimes drop a stroke when scribbling too fast.
+He thought he could be more expressive
+if his brush reacted in a different way to pressure and speed.
 
-After a few prototypes, and applying what he learned in his engineering 
-studies, his simple XInput program slowly turned into a brush editor 
-with simple digital canvas. When version 0.4 was released in 2006, he 
-though he was done since it did everything he wanted to do, but users 
-started to appear and began to use it. Some of them requested features 
-that he also wanted and thus it's development continued. Over the 
-years, several people have contributed small and large to the codebase 
-of MyPaint, or have just been enthusiastic and spread the word about it 
-throughout the Internet.
+Martin wrote a few prototypes,
+and applied what he'd learned in his engineering studies.
+His simple program grew into a brush editor with a simple digital canvas.
+In 2006 Martin released version 0.4, and thought it was complete.
+MyPaint now did everything he wanted it to do,
+but artists found it and began to use it.
+Some of them asked for features that Martin also wanted,
+so development continued.
+Since then, many more have contributed to the code,
+or spread the word about MyPaint on the Internet.
 
-Fast-Forward to today, MyPaint has become an easy-to-use painting 
-program which works well with Wacom graphics tablets and other similar 
-devices. Its highly configurable brush engine not only emulates 
-traditional media such as charcoal and ink, but also allows you to 
-experiment to create non-realistic brushes to fit with your artist 
-tastes. MyPaint's UI is design to be our of your way and allow you to 
-focus, but also give you the tools you need to create your Artwork.
+Fast-Forward to today.
+MyPaint is a nimble, distraction-free, and easy
+tool for digital painters.
+It supports graphics tablets made by Wacom,
+and many similar devices.
+Its brush engine is versatile and configurable,
+and it provides useful, productive tools.
 
-MyPaint is used by many artists, including the the notable Digital 
-Illustrator and Concept Artist, [David Revoy](http://davidrevoy.com) 
-and others on [Deviantart](http://mypaint.deviantart.com/) and 
-[Tumbler](http://made-with-mypaint.tumblr.com/). It is also 
-cross-platform allowing not only Linux users, but also Mac OS X and 
-Windows users to draw to their hearts content.
+The standard brushes can emulate traditional media like
+charcoal, pencils, ink, or paint.
+But you don't have to limit yourself to just the standard ones.
+It’s easy to make expressive, artful new brushes
+that don’t respond like anything conventional.
+
+Fullscreen mode declutters the interface,
+leaving you with just your brush and your creativity.
+You can still reveal the tools you want, when you need them.
+This distraction-free approach means you can focus better on
+the art you make, not the tool you make it with.
+
+MyPaint has simplicity,
+yet it gives you all the tools you need to create great artwork.
+
+Many notable artists use MyPaint, including
+digital illustrator and concept artist [David Revoy][deevad].
+You'll find growing MyPaint user communities on
+[DeviantArt][da] and [Tumblr][tumblr].
+MyPaint comes from the Linux art world,
+but it's ported Mac OS X and Windows too.
+Now anyone can pick up MyPaint and draw to their heart's content!
 
 [Download MyPaint Today!](/downloads)
 
+[gimp]: http://gimp.org
+[deevad]: http://davidrevoy.com
+[da]: http://mypaint.deviantart.com/
+[tumblr]: http://made-with-mypaint.tumblr.com/
