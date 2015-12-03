@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tumblr Showcase Blog: Made with MyPaint"
+author: Andrew Chadwick
 date:   2015-03-21 00:00:00
 categories: blog
 ---
@@ -14,3 +15,4 @@ new art on Tumblr where our little program was used.
 Go follow it now! It’s curated by one of our own, and we’d love
 suggestions for awesome SFW art you’d like to include: just ask via the
 blog.
+

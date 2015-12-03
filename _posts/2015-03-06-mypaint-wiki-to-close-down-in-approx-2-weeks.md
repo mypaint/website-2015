@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "MyPaint wiki to close down in approx. 2 weeks"
+title:  "MyPaint Wiki to Close Down in Approx. 2 Weeks"
+Author: Andrew Chadwick
 date:   2015-03-06 00:00:00
 categories: blog
 ---
@@ -32,3 +33,4 @@ Especial thanks to Techmight for hosting our site and our DNS for many
 years! And thanks to all previous contributors to the wiki too. We will
 try to retain your content, or give you all fair warning to move it
 elsewhere.
+

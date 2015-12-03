@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Approaching string freeze and beta release cycle"
+title:  "Approaching String Freeze and Beta Release Cycle"
+author: Andrew Chadwick
 date:   2015-06-29 00:00:00
 categories: blog
 ---
@@ -28,3 +29,4 @@ translators.
 
 Expect announcements about the translation effort, and dates for beta
 releases shortly.
+

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Brushlib/libmypaint is now a separate module"
+title:  "Brushlib is Now a Separate Module"
+author: Andrew Chadwick
 date:   2014-04-29 00:00:00
 categories: blog
 ---
 
-The MyPaint brushlib is now maintained in a separate git repository. Its
+The MyPaint brushlib(libmypaint) is now maintained in a separate git repository. Its
 new home is also on Gitorious, at
 <https://gitorious.org/mypaint/libmypaint/>, so it hasn’t moved far!
 We’ve done this because there are more projects using this code, or
@@ -49,5 +50,4 @@ The basics of this are recapped in the updated [README](https://gitorious.org/my
 information on working with git and submodules is available online or in
 print in the Pro Git book, chapter [6.6 Git Tools –
 Submodules](http://www.git-scm.com/book/en/Git-Tools-Submodules).
-
 

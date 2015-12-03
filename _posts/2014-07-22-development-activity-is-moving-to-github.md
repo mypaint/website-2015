@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Development activity is moving to Github"
+title:  "Development Activity is Moving to Github"
+author: Andrew Chadwick
 date:   2014-07-22 00:00:00
 categories: blog
 ---
@@ -30,5 +31,4 @@ Travis and Appveyor for CI, the MyPaint application’s docs will benefit
 tons from being more wiki-like to edit, and the issue tracker is just
 frankly better documented and nicer for pasting in screencaps and
 exception dumps)
-
 

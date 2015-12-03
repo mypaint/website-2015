@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Windows Porting"
+author: Andrew Chadwick
 date:   2015-07-19 00:00:00
 categories: blog
 ---
@@ -26,5 +27,3 @@ procedure until MSYS2 fix that. Our own binaries and installers will
 never be knowingly distributed – by us – through SourceForge or any
 similar crapware bundling site.
 
-→  [Discussion thread on the
-forums](http://forum.intilinux.com/mypaint-development-and-suggestions/windows-installer-for-v1-2-0%28-beta%29/)

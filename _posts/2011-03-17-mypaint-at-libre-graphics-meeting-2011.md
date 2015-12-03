@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MyPaint at Libre Graphics Meeting 2011"
+author: Jon Nordby
 date: 2011-03-17 00:00:00
 categories: blog
 ---
@@ -23,4 +24,3 @@ to see you at the conference!
 If you are not able to go, please consider supporting by
 [donating](https://pledgie.com/campaigns/14610) and spreading the word.
 
--- [jonnor](https://github.com/jonnor)

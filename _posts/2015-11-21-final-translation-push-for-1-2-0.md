@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Final translation push for 1.2.0"
+author: Andrew Chadwick
 date: 2015-11-21 03:55:10
 categories: blog
 ---
@@ -121,7 +122,7 @@ translation.
 Even if your language is complete, you can help by sharing the link
 above among your colleagues and friends on social media.
 
-— [achadwick](https://github.com/achadwick)  
 Page image:
 <https://commons.wikimedia.org/wiki/File:Languages_world_map.svg> by
 Bardion and Julien1311, GFDL/cc-by-sa-3.0.
+

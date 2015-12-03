@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Many thanks for the screenshots"
+title: "Many Thanks for the Screenshots"
+author: David Revoy
 date: 2011-09-09 00:00:00
 categories: blog
 ---
@@ -11,4 +12,3 @@ Finally , it endend-up with more than 150 screenshots pictures from all
 around the world, with many various systems and artworks style. Many
 thanks again , Mypaint community !
 
--- [deevad](https://github.com/deevad)

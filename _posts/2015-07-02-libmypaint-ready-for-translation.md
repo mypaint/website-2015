@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "libmypaint is ready for translation"
+title:  "Brushlib is Ready for Translation"
+author: Andrew Chadwick
 date:   2015-07-02 00:00:00
 categories: blog
 ---
 
 MyPaint is well on its way to feature and string freeze,
-but its brush library is stable enough to be translated now.
+but its brush library(libmypaint) is stable enough to be translated now.
 
 <img src="/assets/posts/2015-07-02-weblate-example-status-page.png"
 alt="Example status page from WebLate"
@@ -41,3 +42,4 @@ way of learning about how it works internally, and it’s one of the
 easiest and most effective ways of getting involved in the Free/Open
 Source culture and putting great software into people’s hands,
 worldwide.
+

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Translations needed for 1.2.0"
+title:  "Translations Needed for 1.2.0"
+author: Andrew Chadwick
 date:   2015-07-13 00:00:10
 categories: blog
 ---
@@ -56,4 +57,3 @@ project too and, from a monoglot like myself, some of the most inspiring
 work I see happening on the project by others is all the effort put into
 making MyPaint comprehensible and international. Many, many thank yous.
 
-— Andrew
