@@ -42,7 +42,7 @@ You can still reveal the tools you want, when you need them.
 This distraction-free approach means you can focus better on
 the art you make, not the tool you make it with.
 
-MyPaint has simplicity,
+MyPaint has simplicity,
 yet it gives you all the tools you need to create great artwork.
 
 Many notable artists use MyPaint, including
@@ -50,7 +50,7 @@ digital illustrator and concept artist [David Revoy][deevad].
 You'll find growing MyPaint user communities on
 [DeviantArt][da] and [Tumblr][tumblr].
 MyPaint comes from the Linux art world,
-but it's ported Mac OS X and Windows too.
+but it has Mac OS X and Windows ports too.
 Now anyone can pick up MyPaint and draw to their heart's content!
 
 [Download MyPaint Today!](/downloads)
