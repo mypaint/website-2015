@@ -408,3 +408,6 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+/*Post Images */
+img[alt=question] { float: left; }
