@@ -4,7 +4,6 @@ title: "The State of MyPaint.Org"
 author: Albert Westra
 date: 2015-12-05 20:23:00
 categories: blog
-permalink: /state-of-website/
 excerpt: "We've been working hard to get our replacement websites of 
 MyPaint and our forums up and running. Here what's been happening this 
 past few weeks."
@@ -60,7 +59,7 @@ on Github. We appreciate all help even if it just mock-ups, suggestions
 or simple grammar corrections. We also need help with getting the final 
 push to translating both libmypaint and MyPaint iself. For more 
 information, please visit 
-[this post](/final-push/) 
+[this post](http://mypaint.org/blog/2015/11/21/final-translation-push-for-1-2-0/) 
 on our site.
 
 From all of us at the MyPaint Community, Thank you.
