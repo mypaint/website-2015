@@ -19,11 +19,11 @@ to at least backup what we lost. Instead we decided to host mypaint on
 github pages and use Jekyll to generate our site. We have been working 
 at recovering a lot missing data. The majority of data was recovered 
 thanks to [Andrew Chadwick](https://github.com/achadwick) work with 
-searching in Google cache files. [David Revoy] also had a backup of 
-the previous website's theme. That good cause we could utilized the 
-image assets it has and incorporate them in the new one. We almost have 
-everything we need, but we still have a good ways to go before the site 
-is ready.
+searching in Google cache files. [David Revoy](http://davidrevoy.com) 
+also had a backup of the previous website's theme. That good cause we 
+could utilized the image assets it has and incorporate them in the new 
+one. We almost have everything we need, but we still have a good ways 
+to go before the site is ready.
 
 The one thing we do need pretty soon is artwork for the new site. If 
 any mypaint user would like their artwork made in mypaint on dedicated 
