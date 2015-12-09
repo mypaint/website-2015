@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get Involved
-permalink: /involved/
+permalink: /join/
 ---
 
 MyPaint is an Open Source project made for the artist community.
