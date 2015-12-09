@@ -129,10 +129,10 @@ we're glad to have you aboard!
 
 [integrations.weblate]: https://weblate.org
 
-[dis.home]: http://test.odysseywestra.com
-[dis.developers]: http://test.odysseywestra.com/c/devops
-[dis.showcase]: http://test.odysseywestra.com/c/artshowcase
-[dis.resources]: http://test.odysseywestra.com/c/resources
+[dis.home]: http://community.mypaint.org
+[dis.developers]: http://community.mypaint.org/c/development
+[dis.showcase]: http://community.mypaint.org/c/artshowcase
+[dis.resources]: http://community.mypaint.org/c/resources
 
 [contrib.main]: https://github.com/mypaint/mypaint/wiki/Contributing
 [contrib.community]: https://github.com/mypaint/mypaint/wiki/Community-and-Contacts
