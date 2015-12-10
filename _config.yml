@@ -10,9 +10,3 @@ github_username:  mypaint
 markdown: kramdown
 permalink: pretty
 
-#gems
-gems:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from

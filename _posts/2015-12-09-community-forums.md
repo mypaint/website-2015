@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Community forums now open"
-author: Andrew Chadwickt
-date: 2015-12-09 18:36
+title: "Community Forums Now Open"
+author: Andrew Chadwick
+date: 2015-12-09 18:36:00
 categories: blog
 ---
 
