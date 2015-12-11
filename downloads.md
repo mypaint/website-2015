@@ -4,77 +4,87 @@ title: Downloads
 permalink: /downloads/
 ---
 
-The Latest build release of MyPaint is version `1.2.0-beta.3` which was 
-released on Nov. 21, 2015. The latest stable build is version `1.1` 
-which was released on Jan. 4, 2013. 
+You can download our latest builds from
+our [GitHub releases page][gh.releases].
+The releases page also contains an archive of all historical releases.
 
-We no longer provide support for version `1.0`. For Version `1.1` , we 
-may ask you to try one of the more recent builds if you ask for support 
-on our issue tracker.
+We only make official builds for a limited number of platforms
+due to time and resource constraints.
+Many third parties release builds for other systems.
+
+The latest stable release is version 1.1
+which was released on Jan. 4, 2013.
+
+The next stable release will be version 1.2.0,
+and betas are available for testing right now.
+
+We no longer provide support for version 1.0 or earlier versions.
+If you are using 1.1,
+we may ask you to try one of the more recent builds
+if you ask for support on our issue tracker.
 
 ### Linux
 
-The latest stable version of MyPaint is available via 
-`apt-get install mypaint` in the terminal on Debian and Ubuntu based 
-distributions. 
+The latest stable version of MyPaint is available on most distributions
+as third-party builds.
+Use your normal package manager to install the program.
+We will try to support these builds if they are recent.
 
-We do maintain a [Ubuntu PPA][linux.ppa] which is a rolling build of 
-MyPaint's "Master" branch on Github. We try to keep things on the master 
-branch fairly stable and tested, but there are bound to be bugs.
+We maintain an [Ubuntu PPA][linux.ppa] which is a rolling build of 
+the “master” branch on GitHub.
+We try to keep things on the master branch fairly stable and tested,
+but there are bound to be bugs.
 
-All other major Linux Distributions will most likely include the most 
-recent stable MyPaint package. To get the latest version of MyPaint, 
-[it will have to be build from the source][linux.build]. We do not 
-maintain packages for other distributions besides Ubuntu and Debian.
-
-### Mac OSX
+### Mac OS X
 
 The latest stable and development builds of MyPaint are available via 
-[MacPorts][mac.ports]. 
-
-You can also build MyPaint on Mac OSX with MacPorts as well. Please go 
-to our [README_OSX.md][mac.build] in our Github repository for more 
-information.
+[MacPorts][mac.ports].
+Please contact us in the issue tracker if you want to do something
+for other distributions.
 
 ### Windows
 
-Our latest build of MyPaint is available via our 
-[Github Releases Page][gh.releases] for both Win32 and Win64. The 
-latest build version is `v1.2.0-beta.3`.
+An official build of MyPaint is available on our 
+[GitHub releases page][gh.releases] for both Win32 and Win64.
 
-Long-time MyPaint porter TumaGonix 
-[has builds available for windows as well][windows.tumagonx]. The 
-latest build version on TumaGonix's blog is `mypaint-1.2.0.7z` which 
-was released on Sep. 19, 2015. We recommend you look at these builds 
-first if you are looking for a stable build of MyPaint on Windows.
+In addition, long-time MyPaint porter TumaGonx 
+has [builds available for Windows][windows.tumagonx].
+These may be better tested than the official builds,
+and sometimes do not suffer from the same issues.
 
-You can also build MyPaint from source as well. We use 
-[MSYS2][windows.msys2] as our build environment to build a windows 
-version. For more information please go to our 
-[README_WINDOWS.md][windows.build] for information on how to build on 
-windows.
+We do not support any other Windows builds or installers.
+Please do not install MyPaint using downloads
+from any other site on the Windows platform.
+Please contact us in the issue tracker
+if you want to do something for Chocolatey or PortableApps.
 
 ### Source
 
-MyPaint is actively developed and hosted on [Github][source.github] 
-and is always actively tested by [Travis-CI][source.travis] every time a 
-commit is made. If you want the absolute very latest development 
-version, or are interested in helping MyPaint evolve, please follow the 
-instructions in the [README.md][source.build] file to get started.
+MyPaint is actively developed and hosted on [GitHub][source.github] 
+and the build is automatically tested on [Travis-CI][source.travis]
+every time a commit is made.
 
-We are looking for builders who will be willing to maintain a builds 
-for Mac OSX and Windows. If you wish to help us port MyPaint to your OS 
-or Linux Distribution. Please visit our Discourse forums under the 
-[Porting MyPaint Category][source.porting]. You can also ask questions 
-there if you are having a trouble building MyPaint.
+If you want the absolute very latest development version,
+or are interested in helping MyPaint evolve,
+see the [README.md][source.build] file in the source to get started.
+
+We are looking for more people willing to maintain builds
+for Mac OS X, Windows, or Linux distributions.
+If you want to help us port MyPaint to your OS or Linux Distribution,
+please visit our Discourse forums under the 
+[Porting MyPaint Category][source.porting].
+You can also ask questions there if you are having trouble building MyPaint.
 
 ### Brush Packages
 
-We host a list of brushpacks available download on 
-[MyPaint's Brush Packages Wiki][brush.wiki]. You are welcome to post 
-you own brushpacks on that Wiki provided your brushpacks abides by our 
-[Licensing Policy][brush.policy].
-
+We host a list of brushpacks available for download via 
+[MyPaint's Brush Packages wiki page][brush.wiki].
+You are welcome to post links to your own brushpacks on our Wiki.
+Files are typically not hosted on the wiki, just linked,
+so you can use any license you want.
+However the preview thumbnails should be public domain.
+If you release brushpacks which meet our [Licensing Policy][brush.policy],
+they could be considered for inclusion in the next release.
 
 [gh.releases]: https://github.com/mypaint/mypaint/releases
 
