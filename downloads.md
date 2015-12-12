@@ -5,7 +5,7 @@ permalink: /downloads/
 ---
 
 You can download our latest builds from
-our [GitHub releases page][gh.releases].
+our [GitHub releases page][downloads.releases].
 The releases page also contains an archive of all historical releases.
 
 We only make official builds for a limited number of platforms
@@ -40,7 +40,7 @@ but there are bound to be bugs.
 The latest stable and development builds of MyPaint are available via 
 [MacPorts][mac.ports].
 Please contact us in the issue tracker if you want to do something
-for other distributions.
+for other distribution channels.
 
 ### Windows
 
@@ -71,8 +71,8 @@ see the [README.md][source.build] file in the source to get started.
 We are looking for more people willing to maintain builds
 for Mac OS X, Windows, or Linux distributions.
 If you want to help us port MyPaint to your OS or Linux Distribution,
-please visit our Discourse forums under the 
-[Porting MyPaint Category][source.porting].
+please visit our community forums under the 
+[Porting MyPaint Category][source.porting], and ask away there.
 You can also ask questions there if you are having trouble building MyPaint.
 
 ### Brush Packages
@@ -86,17 +86,14 @@ However the preview thumbnails should be public domain.
 If you release brushpacks which meet our [Licensing Policy][brush.policy],
 they could be considered for inclusion in the next release.
 
-[gh.releases]: https://github.com/mypaint/mypaint/releases
+[downloads.releases]: https://github.com/mypaint/mypaint/releases
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
 [linux.build]: https://github.com/mypaint/mypaint/blob/master/README_LINUX.md
 
 [mac.ports]: https://www.macports.org/ports.php?by=name&substr=mypaint
-[mac.build]: https://github.com/mypaint/mypaint/blob/master/README_OSX.md
 
 [windows.tumagonx]: http://www.opensourcepack.blogspot.fr/2013/01/mypaint-and-pygi.html
-[windows.msys2]: https://github.com/msys2
-[windows.build]: https://github.com/mypaint/mypaint/blob/master/README_WINDOWS.md
 
 [source.github]: https://github.com/mypaint
 [source.travis]: https://travis-ci.org/mypaint
