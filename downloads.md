@@ -45,7 +45,7 @@ for other distribution channels.
 ### Windows
 
 An official build of MyPaint is available on our 
-[GitHub releases page][gh.releases] for both Win32 and Win64.
+[GitHub releases page][join.releases] for both Win32 and Win64.
 
 In addition, long-time MyPaint porter TumaGonx 
 has [builds available for Windows][windows.tumagonx].
