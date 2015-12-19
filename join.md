@@ -25,7 +25,7 @@ and some of the more complicated bits are designed in Glade.
 All bugs and related issues are public,
 and can be searched in the issue trackers for the two main projects
 ([MyPaint][code.mypaint], [libmypaint][code.libmypaint]).
-We also have a dedecated [developer's discussion forum][code.forum]
+We also have a dedicated [developer's discussion forum][code.forum]
 for those wanting help or a place to chat.
 
 ### Packaging
@@ -40,15 +40,15 @@ including those made by third parties.
 If you intend to start a new packaging project,
 please tell us about it and link it on the wiki.
 
-We're also are looking for people willing to maintain builds for 
-Mac OS X, Windows. It helps having a person familiar to the platform
-they are building on.
+We're also looking for people willing to maintain builds
+for Mac OS X and Windows.
+It helps having a person familiar to the platform they're building on.
 
 See the [main README file][packing.readme] for details of
 how to build MyPaint from source across a variety of platforms.
 If you have questions, or want to port MyPaint to
 Mac OS X, Windows, another Linux distribution, please vist our Community
-forums under the [Porting MyPaint Category][packing.porting], 
+forums under the [Porting MyPaint Category][packing.porting],
 and ask away there.
 
 ### Web Developing
@@ -83,7 +83,7 @@ to make it simpler for new translators to get started.
 You can contribute to MyPaint
 by [creating artwork][contrib.wiki] which we can reuse.
 We'd like all sorts of designs for use in the program,
-as part of website designs, or for propotional purposes.
+as part of website designs, or for promotional purposes.
 
 If you want (and only with your permission),
 you can contribute artwork which helps us promote MyPaint,
@@ -128,7 +128,7 @@ we're glad to have you aboard!
 
 [code.mypaint]: https://github.com/mypaint/mypaint/issues
 [code.libmypaint]: https://github.com/mypaint/libmypaint/issues
-[code.form]: http://community.mypaint.org/c/development
+[code.forum]: http://community.mypaint.org/c/development
 
 [packing.releases]: https://github.com/mypaint/mypaint/releases
 [packing.wiki]: https://github.com/mypaint/mypaint/wiki/Packaging
