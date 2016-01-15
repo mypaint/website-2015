@@ -8,7 +8,7 @@ You can download our latest builds from
 our [GitHub releases page][downloads.releases].
 The releases page also contains an archive of all historical releases.
 
-We only make official builds for a limited number of platforms
+The MyPaint team only makes builds for a limited number of platforms
 due to time and resource constraints.
 Many third parties release builds for other systems.
 
@@ -44,12 +44,14 @@ for other distribution channels.
 
 ### Windows
 
-An official build of MyPaint is available on our 
+We have stable builds and prerelease builds available on our
 [GitHub releases page][downloads.releases] for both Win32 and Win64.
 
-In addition, long-time MyPaint porter TumaGonx 
-has [builds available for Windows][windows.tumagonx].
-These may be better tested than the official builds,
+In addition, long-time MyPaint porter TumaGonx
+makes [rolling developer builds for Windows][windows.tumagonx]
+available via his blog.
+These may be better tested than the developer builds
+on the GitHub releases page,
 and sometimes do not suffer from the same issues.
 
 We do not support any other Windows builds or installers.
