@@ -13,7 +13,7 @@ due to time and resource constraints.
 Many third parties release builds for other systems.
 
 The latest stable release is version 1.2
-which was released on Jan. 16, 2016.
+which was released on Jan. 15, 2016.
 
 We no longer provide support for version 1.1 or earlier versions.
 If you are using those versions,
