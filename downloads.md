@@ -12,15 +12,12 @@ The MyPaint team only makes builds for a limited number of platforms
 due to time and resource constraints.
 Many third parties release builds for other systems.
 
-The latest stable release is version 1.1
-which was released on Jan. 4, 2013.
+The latest stable release is version 1.2
+which was released on Jan. 16, 2016.
 
-The next stable release will be version 1.2.0,
-and betas are available for testing right now.
-
-We no longer provide support for version 1.0 or earlier versions.
-If you are using 1.1,
-we may ask you to try one of the more recent builds
+We no longer provide support for version 1.1 or earlier versions.
+If you are using those versions,
+we will ask you to try one of the more recent builds
 if you ask for support on our issue tracker.
 
 ### Linux
