@@ -4,7 +4,6 @@ title: "Final translation push for 1.2.0"
 author: Andrew Chadwick
 date: 2015-11-21 03:55:10
 categories: blog
-comments: off
 ---
 
 <p style="text-align: center; display: block;">
