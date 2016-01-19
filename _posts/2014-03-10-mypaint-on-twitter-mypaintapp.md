@@ -4,6 +4,7 @@ title:  "MyPaint on Twitter: @MyPaintApp"
 author: Andrew Chadwick
 date:   2014-03-10 00:00:00
 categories: blog
+comments: off
 ---
 
 MyPaint now has a Twitter account, for announcements, Q&A, feature

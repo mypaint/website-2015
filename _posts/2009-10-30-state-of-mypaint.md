@@ -4,6 +4,7 @@ title: "State of MyPaint"
 author: Martin Renold
 date: 2009-10-30 00:00:00
 categories: blog
+comments: off
 ---
 
 Intrest around the MyPaint project seems to have increased lately, both 

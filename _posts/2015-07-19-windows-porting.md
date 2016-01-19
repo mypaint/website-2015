@@ -4,6 +4,7 @@ title:  "Windows Porting"
 author: Andrew Chadwick
 date:   2015-07-19 00:00:00
 categories: blog
+comments: off
 ---
 
 I’m hoping that MyPaint will be able to support Windows fully starting

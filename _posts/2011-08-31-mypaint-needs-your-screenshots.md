@@ -4,6 +4,7 @@ title: "Mypaint Needs your Screenshots"
 author: David Revoy
 date: 2011-08-31 00:00:00
 categories: blog
+comments: off
 ---
 
 Hi, I’m [David Revoy ( Deevad )](http://www.davidrevoy.com/) and I’m 

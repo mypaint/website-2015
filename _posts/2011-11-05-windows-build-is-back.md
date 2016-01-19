@@ -4,6 +4,7 @@ title: "Windows Build is Back"
 author: David Revoy
 date: 2011-11-22 00:00:00
 categories: blog
+comments: off
 ---
 
 Just to tease a bit our Windows users about a good news : today 

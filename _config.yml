@@ -10,3 +10,9 @@ github_username:  mypaint
 markdown: kramdown
 permalink: pretty
 
+defaults:
+  -
+    scope:
+      path: "posts"
+    values:
+      comments: "on"

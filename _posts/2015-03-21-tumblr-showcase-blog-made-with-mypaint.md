@@ -4,6 +4,7 @@ title:  "Tumblr Showcase Blog: Made with MyPaint"
 author: Andrew Chadwick
 date:   2015-03-21 00:00:00
 categories: blog
+comments: off
 ---
 
 Check out our showcase blog on Tumblr, [Made with

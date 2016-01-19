@@ -4,6 +4,7 @@ title: "Developer Monologue: Short History of MyPaint"
 author: "Martin Renold"
 date: 2009-06-18 00:00:00
 categories: blog
+comments: off
 ---
 
 

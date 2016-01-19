@@ -4,6 +4,7 @@ title: "Libre Graphics Meeting 2010"
 author: Jon Nordby
 date: 2010-04-23 00:00:00
 categories: blog
+comments: off
 ---
 
 Libre Graphics Meeting, or LGM for short, is a conference for users and 

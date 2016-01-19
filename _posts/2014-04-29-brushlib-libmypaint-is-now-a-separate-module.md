@@ -4,6 +4,7 @@ title:  "Brushlib is Now a Separate Module"
 author: Andrew Chadwick
 date:   2014-04-29 00:00:00
 categories: blog
+comments: off
 ---
 
 The MyPaint brushlib(libmypaint) is now maintained in a separate git repository. Its

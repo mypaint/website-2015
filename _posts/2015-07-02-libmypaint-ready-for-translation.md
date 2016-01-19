@@ -4,6 +4,7 @@ title:  "Brushlib is Ready for Translation"
 author: Andrew Chadwick
 date:   2015-07-02 00:00:00
 categories: blog
+comments: off
 ---
 
 MyPaint is well on its way to feature and string freeze,

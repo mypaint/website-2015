@@ -4,6 +4,7 @@ title: "New Pixel Format"
 author: Martin Renold
 date: 2008-11-21 00:00:00
 categories: blog
+comments: off
 ---
 
 GEGL (the upcoming GIMP backend) uses linear-light floating point as 

@@ -4,6 +4,7 @@ title:  "Development Activity is Moving to Github"
 author: Andrew Chadwick
 date:   2014-07-22 00:00:00
 categories: blog
+comments: off
 ---
 
 In just under a week’s time, on Sunday 27th July 2014, I’ll be moving

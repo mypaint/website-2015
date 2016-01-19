@@ -4,6 +4,7 @@ title: "Ready, Set, Go..."
 author: thedarkmaster
 date: 2008-03-22 00:00:00
 categories: blog
+comments: off
 ---
 
 Here we are, the new MyPaint site is online and I hope you’ll enjoy it.

@@ -4,6 +4,7 @@ title:  "Translations Needed for 1.2.0"
 author: Andrew Chadwick
 date:   2015-07-13 00:00:10
 categories: blog
+comments: off
 ---
 
 MyPaint badly needs *your* language skills to make the 1.2.0 release a

@@ -4,6 +4,7 @@ title: "MyPaint at Libre Graphics Meeting 2011"
 author: Jon Nordby
 date: 2011-03-17 00:00:00
 categories: blog
+comments: off
 ---
 
 The [Libre Graphics Meeting](http://www.libregraphicsmeeting.org/) (LGM)

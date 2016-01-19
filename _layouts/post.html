@@ -12,4 +12,11 @@ layout: default
   {{ content }}
   </article>
 
+  {% if site.comments == "on" %}
+    {% include comments.html %}
+  {% else %}
+    <div id="no-comments">
+    <p> Discourse Comments Disabled </p>
+    </div>
+  {% endif %}
 </div>
