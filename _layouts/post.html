@@ -17,7 +17,7 @@ layout: default
 
     <script type="text/javascript">
       DiscourseEmbed = { discourseUrl: 'http://community.mypaint.org/',
-                      {% if page.discourseID %} topicID: '{{page.discourseID}}'
+                      {% if page.discourseID %} topicID: {{page.discourseID}}
                       {% else %}discourseEmbedUrl: '{{site.url}}{{page.url}}' {% endif %} };
 
       (function() {
