@@ -11,7 +11,7 @@ past few weeks."
 
 
 ![question]
-As many of you may have read from [@mypaintapp] on twitter, our 
+As many of you may have read from [@mypaintapp][twitter] on twitter, our 
 previous host provider for both the mypaint website and the forums went 
 dark a few weeks ago. No one could get into the servers to at least 
 backup what we lost. Instead we decided to host mypaint on  github 
@@ -35,7 +35,7 @@ As stated above we also lost our forums as well. With no chance of
 recovering the site, we had to rebuild that one as well. Luckily, we 
 were able to get a sponsor whom will upfront the cost to run a 
 Discourse server on Digital Ocean. His name [Noah Chelliah] who is a 
-business owner of [Alitspeed]. They're an Linux IT Solutions company 
+business owner of [Altispeed]. They're an Linux IT Solutions company 
 which specialize from home automation to network deployments. Noah is 
 also the co-host of Jupiter Broadcasting's Linux Action Show, so you 
 may have heard of him. I met him personally during 
@@ -60,11 +60,11 @@ From all of us at the MyPaint Community, Thank you.
 [@mypaintapp]: https://twitter.com/MyPaintApp
 [Andrew Chadwick]: https://github.com/achadwick
 [David Revoy]: http://davidrevoy.com
-[#8]: mypaint/mypaint.github.io#8
+[#8]: https://github.com/mypaint/mypaint.github.io#8
 [Noah Chelliah]: https://twitter.com/Kernellinux
 [Altispeed]: http://altispeed.com
 [lfnw]: https://linuxfestnorthwest.org
-[issue]: mypaint/mypaint.github.ioissues
+[issue]: https://github.com/mypaint/mypaint.github.io/issues
 [post]: http://mypaint.org/blog/2015/11/21/final-translation-push-for-1-2-0/
 [question]: /assets/posts/2015-12-05-state-of-website.jpg
 {: class="feature-image" id="float-left" }
