@@ -13,6 +13,7 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "posts"
+      path: ""
+      type: "posts"
     values:
       comments: "on"

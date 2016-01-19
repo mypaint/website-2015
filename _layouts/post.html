@@ -12,11 +12,25 @@ layout: default
   {{ content }}
   </article>
 
-  {% if site.comments == "on" %}
-    {% include comments.html %}
+  {% if page.comments %}
+  <div id="discourse-comments"></div>
+
+    <script type="text/javascript">
+      DiscourseEmbed = { discourseUrl: 'http://community.mypaint.org/',
+                     discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+
+      function() {
+        var d = document.createElement('script'); 
+        d.type = 'text/javascript'; 
+        d.async = true;
+        d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+        (document.getElementsByTagName('head')[0] 
+          || document.getElementsByTagName('body')[0]).appendChild(d);
+      })();
+    </script>
   {% else %}
     <div id="no-comments">
-    <p> Discourse Comments Disabled </p>
+      <p> Discourse Comments Disabled </p>
     </div>
   {% endif %}
 </div>
