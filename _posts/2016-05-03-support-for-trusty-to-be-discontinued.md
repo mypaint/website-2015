@@ -4,6 +4,7 @@ title: "Support for Ubuntu 14.04LTS to be discontinued"
 author: Andrew Chadwick
 date: 2016-05-03 00:00:00
 categories: blog
+discourseID: 348
 ---
 
 [MyPaint's testing repository for Ubuntu
