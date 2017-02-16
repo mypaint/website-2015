@@ -90,7 +90,7 @@ they could be considered for inclusion in the next release.
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
 [linux.build]: https://github.com/mypaint/mypaint/blob/master/README_LINUX.md
 
-[mac.ports]: https://www.macports.org/ports.php?by=name&substr=mypaint
+[mac.ports]: https://www.macports.org/ports.php?by=name&substr=MyPaint
 
 [windows.tumagonx]: http://www.opensourcepack.blogspot.fr/2013/01/mypaint-and-pygi.html
 
