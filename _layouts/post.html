@@ -14,9 +14,9 @@ layout: default
 
   {% if page.comments %}
   <div id="discourse-comments"></div>
-
+    
     <script type="text/javascript">
-      DiscourseEmbed = { discourseUrl: 'http://community.mypaint.org/',
+      DiscourseEmbed = { discourseUrl: 'https://community.mypaint.org/',
                          {% if page.discourseID %}topicId: {{page.discourseID}}
                          {% else %}discourseEmbedUrl: '{{site.url}}{{page.url}}'{% endif %} };
 
