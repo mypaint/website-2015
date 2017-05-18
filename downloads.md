@@ -46,8 +46,10 @@ the command line:
 flatpak install --from https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref
 ```
 
-After installing the Flatpak, the applications will show up in your
-system, but you can also launch it from the commandline:
+After installing the Flatpak, the applications should show up in your
+system, but because Flatpak is very new, you may need to log out and
+log in again to see the launcher in your desktop.  You can also launch
+it from the commandline:
 
 ```
 flatpak run org.mypaint.MyPaint
