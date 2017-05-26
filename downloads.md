@@ -27,20 +27,20 @@ as third-party builds.
 Use your normal package manager to install the program.
 We will try to support these builds if they are recent.
 
-##### Ubuntu PPA
+#### Ubuntu PPA:
 
-We maintain an [Ubuntu PPA][linux.ppa] which is a rolling build of 
+We maintain an [Ubuntu PPA][linux.ppa] which is a rolling build of
 the “master” branch on GitHub.
 We try to keep things on the master branch fairly stable and tested,
 but there are bound to be bugs.
 
-##### Flatpak
+#### Flatpak:
 
 MyPaint is now also availble as Flatpak and should be installable on
 all major Linux distributions that support it like Fedora, Debian,
 Ubuntu, elementaryOS, Arch, openSuSE, and many more.
 
-[Click to install](https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref)
+-->[Click to install Flatpak][linux.flatpak]<--
 
 Click to install is not yet availble in all distributions.  If you are
 lucky it will open your Software application.  Otherwise you can use
@@ -61,7 +61,7 @@ flatpak run org.mypaint.MyPaint
 
 ### Mac OS X
 
-The latest stable and development builds of MyPaint are available via 
+The latest stable and development builds of MyPaint are available via
 [MacPorts][mac.ports].
 Please contact us in the issue tracker if you want to do something
 for other distribution channels.
@@ -86,7 +86,7 @@ if you want to do something for Chocolatey or PortableApps.
 
 ### Source
 
-MyPaint is actively developed and hosted on [GitHub][source.github] 
+MyPaint is actively developed and hosted on [GitHub][source.github]
 and the build is automatically tested on [Travis-CI][source.travis]
 every time a commit is made.
 
@@ -97,13 +97,13 @@ see the [README.md][source.build] file in the source to get started.
 We are looking for more people willing to maintain builds
 for Mac OS X, Windows, or Linux distributions.
 If you want to help us port MyPaint to your OS or Linux Distribution,
-please visit our community forums under the 
+please visit our community forums under the
 [Porting MyPaint Category][source.porting], and ask away there.
 You can also ask questions there if you are having trouble building MyPaint.
 
 ### Brush Packages
 
-We host a list of brushpacks available for download via 
+We host a list of brushpacks available for download via
 [MyPaint's Brush Packages wiki page][brush.wiki].
 You are welcome to post links to your own brushpacks on our Wiki.
 Files are typically not hosted on the wiki, just linked,
@@ -115,6 +115,7 @@ they could be considered for inclusion in the next release.
 [downloads.releases]: https://github.com/mypaint/mypaint/releases
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
+[linux.flatpak]: https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref
 [linux.build]: https://github.com/mypaint/mypaint/blob/master/README_LINUX.md
 
 [mac.ports]: https://www.macports.org/ports.php?by=name&substr=MyPaint

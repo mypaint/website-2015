@@ -211,8 +211,9 @@ img {
 }
 
 .post-content h4 {
-  font-size: 20px;
+  font-size: 18px;
   letter-spacing: -1px;
+  color: grey;
 }
 
 .post-content blockquote {
@@ -434,11 +435,9 @@ img {
 
 /*Image modifiers */
 #float-left {
-    float: left; 
+    float: left;
     }
 
 #float-right {
-    float: right; 
+    float: right;
     }
-
-
