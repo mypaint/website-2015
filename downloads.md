@@ -27,10 +27,14 @@ as third-party builds.
 Use your normal package manager to install the program.
 We will try to support these builds if they are recent.
 
+##### Ubuntu PPA
+
 We maintain an [Ubuntu PPA][linux.ppa] which is a rolling build of 
 the “master” branch on GitHub.
 We try to keep things on the master branch fairly stable and tested,
 but there are bound to be bugs.
+
+##### Flatpak
 
 MyPaint is now also availble as Flatpak and should be installable on
 all major Linux distributions that support it like Fedora, Debian,
