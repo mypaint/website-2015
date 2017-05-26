@@ -32,6 +32,29 @@ the “master” branch on GitHub.
 We try to keep things on the master branch fairly stable and tested,
 but there are bound to be bugs.
 
+MyPaint is now also availble as Flatpak and should be installable on
+all major Linux distributions that support it like Fedora, Debian,
+Ubuntu, elementaryOS, Arch, openSuSE, and many more.
+
+[Click to install](https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref)
+
+Click to install is not yet availble in all distributions.  If you are
+lucky it will open your Software application.  Otherwise you can use
+the command line:
+
+```
+flatpak install --from https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref
+```
+
+After installing the Flatpak, the applications should show up in your
+system, but because Flatpak is very new, you may need to log out and
+log in again to see the launcher in your desktop.  You can also launch
+it from the commandline:
+
+```
+flatpak run org.mypaint.MyPaint
+```
+
 ### Mac OS X
 
 The latest stable and development builds of MyPaint are available via 
