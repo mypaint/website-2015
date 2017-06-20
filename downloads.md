@@ -69,6 +69,8 @@ flatpak remote-add --no-gpg-verify --user mypaint-master-repo http://flatpak-rep
 flatpak --user install mypaint-master-repo org.mypaint.MyPaint-Nightly
 ```
 
+And then run from your desktop or with this command:
+
 ```
 flatpak run org.mypaint.MyPaint-Nightly
 ```
