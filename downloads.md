@@ -96,9 +96,9 @@ We have stable builds and prerelease builds available on our
 [GitHub releases page][downloads.releases] for both Win32 and Win64.
 
 We also have continuous alpha builds available which are updated 
-everytime a new change is made in our (Github Repository)[source.github].
+everytime a new change is made in our [Github Repository][source.github].
 
-->(Grab the latest Windows Alpha Builds from Appveyor here.)[downloads.alpha]<-
+->[Grab the latest Windows Alpha Builds from Appveyor here.][downloads.alpha]<-
 
 Just select whether build(i686/MINGW32=32bit build or x86_64/MINGW64=64bit build) 
 you are using and navigate to the Artifacts tab to download the exe file.
