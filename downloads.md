@@ -95,12 +95,17 @@ for other distribution channels.
 We have stable builds and prerelease builds available on our
 [GitHub releases page][downloads.releases] for both Win32 and Win64.
 
-In addition, long-time MyPaint porter TumaGonx
-makes [rolling developer builds for Windows][windows.tumagonx]
-available via his blog.
-These may be better tested than the developer builds
-on the GitHub releases page,
-and sometimes do not suffer from the same issues.
+We also have continuous alpha builds available which are updated 
+everytime a new change is made in our (Github Repository)[source.github].
+
+->(Grab the latest Windows Alpha Builds from Appveyor here.)[downloads.alpha]<-
+
+Just select whether build(i686/MINGW32=32bit build or x86_64/MINGW64=64bit build) 
+you are using and navigate to the Artifacts tab to download the exe file.
+
+Be aware, the “latest build” is likely to be a very very beta “Pull Request” 
+with some random feature. Make sure it doesn’t say “Pull Request”, or 
+click “build history” and select one that does NOT say “pull request” on it.
 
 We do not support any other Windows builds or installers.
 Please do not install MyPaint using downloads
@@ -137,6 +142,7 @@ If you release brushpacks which meet our [Licensing Policy][brush.policy],
 they could be considered for inclusion in the next release.
 
 [downloads.releases]: https://github.com/mypaint/mypaint/releases
+[downloads.alpha]: https://ci.appveyor.com/project/achadwick/mypaint
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
 [linux.flatpak]: https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref
