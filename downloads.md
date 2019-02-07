@@ -34,7 +34,7 @@ the “master” branch on GitHub.
 We try to keep things on the master branch fairly stable and tested,
 but there are bound to be bugs.
 
-### Appimage
+#### Appimage
 
 We have appimages available in our [Github Release][downloads.releases]
 page which are images of the alpha builds of mypaint. We hope to 
