@@ -147,7 +147,7 @@ However the preview thumbnails should be public domain.
 If you release brushpacks which meet our [Licensing Policy][brush.policy],
 they could be considered for inclusion in the next release.
 
-[downloads.releases]: https://github.com/mypaint/mypaint/releases
+[downloads.releases]: https://github.com/mypaint/mypaint-appimage/releases
 [downloads.alpha]: https://ci.appveyor.com/project/achadwick/mypaint
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
