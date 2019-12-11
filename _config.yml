@@ -17,3 +17,5 @@ defaults:
       type: "posts"
     values:
       comments: "on"
+
+theme: jekyll-theme-slate
