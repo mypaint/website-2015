@@ -52,7 +52,7 @@ lucky it will open your Software application.  Otherwise you can use
 the command line:
 
 ```
-flatpak install --from https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref
+flatpak install --from https://flathub.org/repo/appstream/org.mypaint.MyPaint.flatpakref
 ```
 
 After installing the Flatpak, the applications should show up in your
