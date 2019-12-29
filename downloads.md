@@ -27,11 +27,17 @@ as third-party builds.
 Use your normal package manager to install the program.
 We will try to support these builds if they are recent.
 
-#### Appimage
+#### Appimages
 
-We have appimages available in our [Github Release][downloads.releases]
-page which are images of the alpha builds of mypaint. We hope to 
-have stable versions out soon
+We have two versions of our Appimages.
+
+[Rolling Release][downloads.rolling]: This where we store our Rolling
+Releases which build directly from Master. Beware may be unstable.
+
+[Standard Release][downloads.releases]: This where you can get any stable
+and Alpha/Beta Builds we tag and release. The Alpha/Beta may be unstable, 
+but for the most part will work compared to our Rolling Releases.
+
 
 #### Flatpak:
 
@@ -116,7 +122,8 @@ However the preview thumbnails should be public domain.
 If you release brushpacks which meet our [Licensing Policy][brush.policy],
 they could be considered for inclusion in the next release.
 
-[downloads.releases]: https://github.com/mypaint/mypaint-appimage/releases
+[downloads.rolling]: https://github.com/mypaint/mypaint-appimage/releases
+[downloads.releases]: https://github.com/mypaint/mypaint/releases
 [downloads.alpha]: https://ci.appveyor.com/project/achadwick/mypaint
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
