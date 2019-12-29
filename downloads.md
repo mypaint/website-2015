@@ -65,30 +65,6 @@ it from the commandline:
 flatpak run org.mypaint.MyPaint
 ```
 
-#### Flatpak Nightly:
-
-There is also a Flatpak package which is a rolling build of the
-“master” branch on GitHub.  You can install it from the command line:
-
-```
-flatpak remote-add --no-gpg-verify --user mypaint-master-repo http://flatpak-repo.manuq.com.ar
-flatpak --user install mypaint-master-repo org.mypaint.MyPaint-Nightly
-```
-
-And then run from your desktop or with this command:
-
-```
-flatpak run org.mypaint.MyPaint-Nightly
-```
-
-Note this process is not automated yet.  The package is updated
-manually. Your Software application should notify you on any
-update. Otherwise you can update with this command:
-
-```
-flatpak --user update org.mypaint.MyPaint-Nightly
-```
-
 ### Mac OS X
 
 The latest stable and development builds of MyPaint are available via
@@ -151,7 +127,7 @@ they could be considered for inclusion in the next release.
 [downloads.alpha]: https://ci.appveyor.com/project/achadwick/mypaint
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
-[linux.flatpak]: https://raw.githubusercontent.com/mypaint/mypaint/master/flatpak/mypaint-stable.flatpakref
+[linux.flatpak]: https://flathub.org/repo/appstream/org.mypaint.MyPaint.flatpakref
 [linux.build]: https://github.com/mypaint/mypaint/blob/master/README_LINUX.md
 
 [mac.ports]: https://www.macports.org/ports.php?by=name&substr=MyPaint
