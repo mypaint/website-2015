@@ -84,10 +84,11 @@ everytime a new change is made in our [Github Repository][source.github].
 ->[Latest Windows Alpha Builds from Appveyor.][downloads.alpha]<-
 
 *Just select whether build(i686/MINGW32=32bit build or x86_64/MINGW64=64bit build) 
-you are using and navigate to the Artifacts tab to download the exe file. Be aware, 
-the “latest build” can likely be a very very beta “Pull Request” with some random 
-feature. Make sure it doesn’t say “Pull Request”. If it does, click on “build history” 
-and select one that does NOT say “Pull Request” on it.*
+you are using and navigate to the Artifacts tab to download the exe file. 
+Be aware, the “latest build” can likely be a very very beta “Pull Request” 
+with some random feature. Make sure it doesn’t say “Pull Request”. If it 
+does, click on “build history” and select one that does NOT say “Pull 
+Request” on it.*
 
 #### Chocolatey
 
@@ -95,25 +96,26 @@ If you prefer to use the Chocolatey repository, both
 [stable releases][choco.prerel] and [pre-releases][choco.stable]
 can be found there. This is maintained by a third party so be warned.
 
-**Apart from the two mentioned above, we do not officially support any other Windows 
-builds or installers.**
+__Apart from the two mentioned above, we do not officially support any 
+other Windows builds or installers.__
 
 ### Source
 
 MyPaint is actively developed and hosted on [GitHub][source.github]
-and the build is automatically tested on [Travis-CI][source.travis]
-every time a commit is made.
+and the build is automatically tested on [Travis-CI][source.travis] for 
+Linux and [AppVeyor][downloads.alpha] for Windows every time a commit 
+is made on Repsitory.
 
-If you want the absolute very latest development version,
-or are interested in helping MyPaint evolve,
-see the [README.md][source.build] file in the source to get started.
+If you want the absolute very latest development version, or are interested 
+in helping MyPaint evolve,see the [README.md][source.build] file in the 
+source to get started.
 
-We are looking for more people willing to maintain builds
-for Mac OS X, Windows, or Linux distributions.
-If you want to help us port MyPaint to your OS or Linux Distribution,
-please visit our community forums under the
-[Porting MyPaint Category][source.porting], and ask away there.
-You can also ask questions there if you are having trouble building MyPaint.
+We are always open for more people willing to maintain buildsfor Mac 
+OS X, Windows, or Linux distributions.If you want to help us port 
+MyPaint to your OS or Linux Distribution,please visit our community 
+forums under the [Porting MyPaint Category][source.porting], and ask away 
+there.You can also ask questions there if you are having trouble 
+building MyPaint.
 
 ### Brush Packages
 
@@ -133,7 +135,6 @@ they could be considered for inclusion in the next release.
 [choco.prerel]: https://chocolatey.org/packages/mypaint/
 [choco.stable]: https://chocolatey.org/packages/mypaint/1.2.1
 
-[linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
 [linux.flatpak]: https://flathub.org/repo/appstream/org.mypaint.MyPaint.flatpakref
 [linux.build]: https://github.com/mypaint/mypaint/blob/master/README_LINUX.md
 
