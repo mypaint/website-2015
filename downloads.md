@@ -76,23 +76,27 @@ for other distribution channels.
 We have stable builds and prerelease builds available on our
 [GitHub releases page][downloads.releases] for both Win32 and Win64.
 
-We also have continuous alpha builds available which are updated 
+#### Rolling Release
+
+We also have continuous builds available which are updated 
 everytime a new change is made in our [Github Repository][source.github].
 
-->[Grab the latest Windows Alpha Builds from Appveyor here.][downloads.alpha]<-
+->[Latest Windows Alpha Builds from Appveyor.][downloads.alpha]<-
 
-Just select whether build(i686/MINGW32=32bit build or x86_64/MINGW64=64bit build) 
-you are using and navigate to the Artifacts tab to download the exe file.
+*Just select whether build(i686/MINGW32=32bit build or x86_64/MINGW64=64bit build) 
+you are using and navigate to the Artifacts tab to download the exe file. Be aware, 
+the “latest build” can likely be a very very beta “Pull Request” with some random 
+feature. Make sure it doesn’t say “Pull Request”. If it does, click on “build history” 
+and select one that does NOT say “Pull Request” on it.*
 
-Be aware, the “latest build” is likely to be a very very beta “Pull Request” 
-with some random feature. Make sure it doesn’t say “Pull Request”, or 
-click “build history” and select one that does NOT say “pull request” on it.
+#### Chocolatey
 
-We do not support any other Windows builds or installers.
-Please do not install MyPaint using downloads
-from any other site on the Windows platform.
-Please contact us in the issue tracker
-if you want to do something for Chocolatey or PortableApps.
+If you prefer to use the Chocolatey repository, both
+[stable releases][choco.prerel] and [pre-releases][choco.stable]
+can be found there. This is maintained by a third party so be warned.
+
+**Apart from the two mentioned above, we do not officially support any other Windows 
+builds or installers.**
 
 ### Source
 
@@ -125,6 +129,9 @@ they could be considered for inclusion in the next release.
 [downloads.rolling]: https://github.com/mypaint/mypaint-appimage/releases
 [downloads.releases]: https://github.com/mypaint/mypaint/releases
 [downloads.alpha]: https://ci.appveyor.com/project/achadwick/mypaint
+
+[choco.prerel]: https://chocolatey.org/packages/mypaint/
+[choco.stable]: https://chocolatey.org/packages/mypaint/1.2.1
 
 [linux.ppa]: https://launchpad.net/~achadwick/+archive/ubuntu/mypaint-testing
 [linux.flatpak]: https://flathub.org/repo/appstream/org.mypaint.MyPaint.flatpakref
